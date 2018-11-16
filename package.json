@@ -42,8 +42,8 @@
   },
   "homepage": "https://github.com/roolebo/ng2-select-compat#readme",
   "peerDependencies": {
-    "@angular/common": "^2.3.0 || ^4.0.0",
-    "@angular/core": "^2.3.0 || ^4.0.0"
+    "@angular/common": "7.0.2",
+    "@angular/core": "7.0.2"
   },
   "devDependencies": {
     "@angular/common": "7.0.2",
